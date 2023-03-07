@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "agenda-d7291": {
+      "hosting": {
+        "app": [
+          "agenda-d7291"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "agenda-d7291"
+  }
+}
